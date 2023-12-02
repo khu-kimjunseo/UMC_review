@@ -13,6 +13,10 @@
 
 # misc
 .DS_Store
+<<<<<<< HEAD
+=======
+.env
+>>>>>>> fdb16cb (Review Done)
 .env.local
 .env.development.local
 .env.test.local
