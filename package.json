@@ -3,14 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-=======
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -24,7 +16,6 @@
     "react-spinners": "^0.13.8",
     "redux": "^4.2.1",
     "styled-components": "^6.1.1",
->>>>>>> fdb16cb (Review Done)
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -50,8 +41,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
-=======
   },
   "devDependencies": {
     "eslint": "^8.54.0",
@@ -63,6 +52,5 @@
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.33.2",
     "prettier": "^3.1.0"
->>>>>>> fdb16cb (Review Done)
   }
 }
