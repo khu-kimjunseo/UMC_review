@@ -1,19 +1,3 @@
-<<<<<<< HEAD
-import Movie from "./Components/Movie";
-import { movies } from "./movieDummy";
-
-function App() {
-  return (
-    <div className="App">
-      {
-        movies.results.map((item) => {
-          return(
-            <Movie title={item.title} rate={item.vote_average} url={item.poster_path} overview={item.overview}></Movie>
-          )
-        })
-      }      
-    </div>
-=======
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Components/Pages/Home/Home";
@@ -56,7 +40,6 @@ function App() {
         </BrowserRouter>
       </div>
     </Provider>
->>>>>>> fdb16cb (Review Done)
   );
 }
 
